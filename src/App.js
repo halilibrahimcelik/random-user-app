@@ -56,7 +56,7 @@ function App() {
           <table className="table">
             <thead>
               <tr className="head-tr">
-                <th className="th">Firstname</th>
+                <th className="th">First-Name</th>
                 <th className="th">Email</th>
                 <th className="th">Phone</th>
                 <th className="th">Age</th>
